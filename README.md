@@ -1,3 +1,3 @@
 # PI_Projeto_Integrador
-
-→No e legislaçãosso e legislaçãointuito e legislação           (, Que destacar que a acessibilidade permite que todos as pessoas tenham re destacar que a acessibilidade permite que todos as pessoas tenham mos ide destacar que a acessibilidade permite que todos as pessoas tenham ntificar e destacar que a acessibilidade permite que todos as pessoas tenham  re destacar que a acessibilidade permite que todos as pessoas tenham passar aos usuários com algum tipo de destacar que a acessibilidade permite que todos as pessoas tenham  de destacar que a acessibilidade permite que todos as pessoas tenham ficiência motora,   )     .
+Glace quer identificar e repassar aos usuários com algum tipo de deficiência (motora, visual, intelectual e auditivo) locais pelos quais teriam acessibilidade.
+Glace se baseará em aplicativos e sites que tem como funcionalidade auxiliar aqueles que necessitam. 
