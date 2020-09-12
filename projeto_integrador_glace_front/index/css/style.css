@@ -1,0 +1,39 @@
+body{
+    background-color: #e3e8f5 ;
+    font-family: Ruda Rounded Mplus 1c bold;
+    
+}
+.container{
+    background-color: #ffffff;
+}
+.navbar{
+    
+    color: white;
+}
+.direita{
+    text-align: right;
+    margin: 30px;
+}
+header{
+    background-image: image("css/images/deficiencia.jpeg");
+}
+
+.btn{
+    background-color: #ADB8D7 ;
+    bottom: #ADB8D7;
+}
+.formatacao{
+    text-align: center;
+    font-family: Ruda Rounded Mplus 1c bold;
+}
+h1{
+    color: #adb8d7;
+}
+h3{
+    color: #08074e;
+}
+.empresas{
+    box-sizing: border-box;
+    align-items: center;
+    margin: 40px;
+}
