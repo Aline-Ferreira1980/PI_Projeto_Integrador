@@ -4,29 +4,37 @@ body{
     
 }
 .container{
+    background-color: rgba(77, 81, 99, 0.055);
+    margin-top: 30px;
+    border-radius: 10px;
     background-color: #ffffff;
     width: auto;
 }
 .navbar{
-    
     color: white;
+    border-radius: 10px;
 }
+.cor{
+    font-family: Ruda Rounded Mplus 1c bold;
+    color: #ff9900;
+    border-radius: 10px;
+    
+}
+
 .direita{
     text-align: center;
-    margin: 30px;
+    margin: auto;
 }
 .esquerda{
+   
+    margin: auto;
     text-align: center;
-    margin: 30px;
+
 }
 
-
-.btn{
-    background-color: #ADB8D7 ;
-    bottom: #ADB8D7;
-}
-.formatacao{
+.title{
     text-align: center;
+    padding-top: 70px;
     
 }
 h1{
@@ -35,10 +43,14 @@ h1{
 h3{
     color: #08074e;
 }
+
+
+.btn{
+    background-color: #ADB8D7 ;
+    color: #08074e bold;
+}
 #destaque{
-    color: #6b6b70;
-    
-    
+    color: #3e3e3e;
 }
 .empresas{
     box-sizing: border-box;
@@ -46,6 +58,6 @@ h3{
     margin:auto;
 }
 footer{
-    color: brown;
+    color: rgb(100, 40, 40);
     text-align: center;
 }
