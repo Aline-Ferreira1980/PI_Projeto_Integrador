@@ -1,0 +1,51 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #e3e8f5 ;
+    font-family: Ruda Rounded Mplus 1c bold;
+    
+}
+.container{
+    background-color: rgba(82, 95, 146, 0.404);
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    width: auto;
+}
+.navbar{
+    color: white;
+    border-radius: 10px;
+}
+.cor{
+    font-family: Ruda Rounded Mplus 1c bold;
+    color: #08074E;
+    border-radius: 10px;
+    background-color: #5353a73a;
+    
+}
+.title{
+    padding-top: 70px;
+}
+h1{
+    text-align: center;
+    color: #adb8d7;
+}
+h4{
+    text-align: center;
+    color: #08074e;
+}
+.btn{
+    background-color: #ADB8D7 ;
+    color:#5353a73a;
+}
+#destaque{
+    color: #3e3e3e;
+}
+.empresas{
+    box-sizing: border-box;
+    align-items: center;
+    margin:auto;
+}
+p{
+    color: rgb(100, 40, 40);
+    text-align: center;
+}
