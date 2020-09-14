@@ -1,0 +1,13 @@
+criando um projeto angualar
+
+abrir o visual e abrir o terminal para criar do zero o projeto 
+npm install -g @angular/cli 
+
+ng new angular-http - novo projeto 
+
+y para criar a rota do projeto 
+escolher o CSS como formato de folha de estilo
+
+ng serve --open //não esquecer de mudar para a pasta antes de rodar
+rodar o projeto para verificar se está funcionando
+
